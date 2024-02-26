@@ -85,6 +85,6 @@ with TabCompare:
 
 with TabData:
     st.markdown('Mortgage rate data from [Macrotrends.net](https://www.macrotrends.net/2604/30-year-fixed-mortgage-rate-chart)')
-    st.markdown('Median personal income data from [St. Louis FED](https://fred.stlouisfed.org/series/MEPAINUSA646N)')
-    st.markdown('Median home price from [St. Louis FED](https://fred.stlouisfed.org/series/MSPNHSUS)')
+    st.markdown('Median personal income data from [St. Louis Fed](https://fred.stlouisfed.org/series/MEPAINUSA646N)')
+    st.markdown('Median home price from [St. Louis Fed](https://fred.stlouisfed.org/series/MSPNHSUS)')
     st.markdown('[GitHub Repo](https://github.com/SeanAntosiak/HomeAffordabilityTrends/tree/main) for the project')

@@ -4,4 +4,4 @@ This is a small project looking at some trends in housing affordability between 
 
 I mostly created this in an attempted to learn how to deploy a streamlit application
 
-Currently deployed [here](https://homeaffordabilitytrends.streamlit.app/)
+The app is currently deployed [here](https://homeaffordabilitytrends.streamlit.app/)
